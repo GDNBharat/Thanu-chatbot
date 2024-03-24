@@ -10,8 +10,8 @@ API_HASH = "4e984ea35f854762dcde906dce426c2d"
 # --------------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 MONGO_URL = getenv("MONGO_URL", None)
-OWNER_ID = "7029942301"
+OWNER_ID = "6728160367"
 SUPPORT_GRP = "shizukamusicupdates"
-UPDATE_CHNL = "ALLTYPECC"
-OWNER_USERNAME = "@DFSchinna_op"
+UPDATE_CHNL = "shizukamusicupdates"
+OWNER_USERNAME = "DFSchinna_op"
 
